@@ -1,0 +1,1 @@
+Self-contained HTML app for generating, remixing, and sharing creative prompts. 500+ ideas, offline use, mobile-optimized.

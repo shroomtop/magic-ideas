@@ -1,0 +1,20 @@
+# Node/npm artifacts (if ever used for local build)
+node_modules/
+npm-debug.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build/output (not in use but for future-proofing)
+dist/
+build/
+*.log
+
+# VS Code & editor folders
+.vscode/
+.idea/
+
+# OS junk
+*.swp
+*.swo
